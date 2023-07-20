@@ -1,0 +1,71 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .form {
+      width: 90%;
+      background-color: #ffffff;
+    }
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+    
+    .form-label {
+        margin-top: 15px;
+        text-align: center;
+        display: block;
+        font-weight: bold;
+    }
+    
+    .form-input {
+        text-align: center;
+        margin-top: 10px;
+        width: 95%;
+        padding: 10px;
+        border: 2px solid #ccc;
+        border-radius: 15px;
+        display: block;
+    }
+    
+    .form-button {
+        margin-top: 50px;
+        margin-bottom: 15px;
+        width: 100%;
+        padding: 10px;
+        background-color: #16aedc;
+        color: #ffffff;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .form-reset {
+        margin-bottom: 15px;
+        width: 30%;
+        padding: 10px;
+        background-color: #dc1616;
+        color: #ffffff;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .hasil{
+        text-align: center;
+        width: 87%;
+        padding: 30px;
+        border: 2px solid #131111;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        display: block;
+    }
+    .radio{
+        margin-right: 5px;
+        margin-left: 75px;
+    }
